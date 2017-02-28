@@ -5,10 +5,11 @@ This game is a part of Ohio University Game Developer Association (OUGDA)'s Spri
 
 Developer: KB.GameDev
 
-Team:
-	KB, kbgamedev.weebly.com: I did everything besides...
-	Audio from Unity Asset Store: Dustyroom, dustyroom.com
-	Sprites from Unity Asset Store: RDR, rdr.artstation.com
+Team: KB, kbgamedev.weebly.com: I did everything besides...
+
+Audio from Unity Asset Store: Dustyroom, dustyroom.com
+	
+Sprites from Unity Asset Store: RDR, rdr.artstation.com
 
 Developed under Unity 5.4.2f2.
 Recommended resolution: 1920x1080
